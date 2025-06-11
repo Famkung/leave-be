@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "my-secret-pw",
+    "database": "leave",
+    "host": "localhost",
+    "dialect": "mysql",
+    "timezone": "+07:00"
+  }, 
+  "uat": {
+    "username": "root",
+    "password": "my-secret-pw",
+    "database": "leave",
+    "host": "localhost",
+    "dialect": "mysql",
+    "timezone": "+07:00"
+  },
+  "production": {
+    "username": "root",
+    "password": "my-secret-pw",
+    "database": "leave",
+    "host": "localhost",
+    "dialect": "mysql",
+    "timezone": "+07:00"
+  }
+}
